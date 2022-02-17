@@ -1,0 +1,14 @@
+properties:
+  -
+    title: "Aparmants for sale in Budapest, between 40 and 60 million HUF and at least 50 suqare meters and 2 rooms"
+    listing_type: sale
+    property_type: flat
+    locations:
+      - budapest
+    price:
+      max: 60
+      min: 40
+    area:
+      max:
+      min: 50
+    rooms: 2
